@@ -47,7 +47,7 @@ This Node.js API project serves as a robust backend for managing courses, integr
 
 3. **Run the Application:**
    ```bash
-   npm start
+   node index.js
    ```
 
 ## API Endpoints

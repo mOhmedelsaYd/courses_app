@@ -1,4 +1,4 @@
-require('dotenv').config({ path: './config.env' });;
+require('dotenv').config({ path: 'example.env'});;
 const express = require('express');
 const app = express();
 const cors = require('cors'); // cors to make any orgin can connect 
